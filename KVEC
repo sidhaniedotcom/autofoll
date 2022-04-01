@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "https://t.me/joinchat/RpHwwhjVarVDEL0BCHIk7w"
+echo "https://t.me/termuxsidhanie"
 echo
 echo " ENTER THE KEY : "
 trap CODE INT
